@@ -1,3 +1,3 @@
 # stepik_autotests
 Stepik autotests
-This is test message. test
+This repo contains my solutions for Stepik Selenium and Python autotests course.
